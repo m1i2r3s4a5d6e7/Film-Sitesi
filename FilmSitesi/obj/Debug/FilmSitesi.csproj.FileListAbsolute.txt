@@ -1,0 +1,105 @@
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\ApplicationInsights.config
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\csc.exe
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\vbc.exe
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\VBCSCompiler.exe
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\FilmSitesi.dll.config
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\FilmSitesi.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\FilmSitesi.pdb
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Antlr3.Runtime.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\EntityFramework.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\EntityFramework.SqlServer.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.Web.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.WindowsServer.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.ApplicationInsights.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Newtonsoft.Json.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\System.Web.Optimization.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\WebGrease.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\EntityFramework.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\EntityFramework.SqlServer.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.Web.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AI.WindowsServer.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.ApplicationInsights.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\System.Web.Optimization.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Antlr3.Runtime.pdb
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Newtonsoft.Json.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.csprojResolveAssemblyReference.cache
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.dll
+c:\users\section-1\documents\visual studio 2015\Projects\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.pdb
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\ApplicationInsights.config
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\csc.exe
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\vbc.exe
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\FilmSitesi.dll.config
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\FilmSitesi.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\FilmSitesi.pdb
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Antlr3.Runtime.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\EntityFramework.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.Web.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Newtonsoft.Json.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\System.Web.Optimization.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\WebGrease.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\EntityFramework.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.Web.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\System.Web.Optimization.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Antlr3.Runtime.pdb
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Newtonsoft.Json.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.csprojResolveAssemblyReference.cache
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.dll
+C:\Users\Mustafa\Desktop\GitHub\06.Film Sitesi\Ekim25\FilmSitesi\FilmSitesi\obj\Debug\FilmSitesi.pdb

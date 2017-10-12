@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="OyIslem.aspx.cs" Inherits="FilmSitesi.OyIslem" %><%=mesaj %>
